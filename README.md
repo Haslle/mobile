@@ -1,2 +1,2 @@
 # haslle-mobile
-Haslle Mobile
+Haslle Mobile preliminary version.
